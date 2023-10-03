@@ -10,11 +10,13 @@ header {
 main {
   height: 1600px;
   border: 1px solid #000;
+  background-color: #fff;
 }
 
 footer {
   height: 390px;
   border: 1px solid #000;
+  background-color: #858585;
 }
 
 
